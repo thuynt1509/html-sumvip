@@ -156,7 +156,7 @@ table {
   background: url("../images/slogan.png") 0/100% no-repeat;
   width: 71.6666666667vw;
   height: 10vw;
-  margin: 11.1111111111vw auto 2.0833333333vw;
+  margin: 6.9444444444vw auto 2.0833333333vw;
 }
 .wrapper-sum .box-login {
   padding: 0 2.7777777778vw;
@@ -275,7 +275,7 @@ table {
   outline: none;
 }
 .wrapper-sum .box-login .tab-content {
-  padding: 2.7777777778vw 2.7777777778vw 11.1111111111vw;
+  padding: 2.7777777778vw 2.7777777778vw 8.3333333333vw;
   border: 0.4166666667vw solid #3a1e58;
   box-shadow: inset 0 0 10px #474699;
   border-radius: 1.3888888889vw;
